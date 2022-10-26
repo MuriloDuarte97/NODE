@@ -8,4 +8,4 @@ Murilo Vinicios Duarte
 
 [VSCode](https://code.visualstudio.com/)
 
-[npm repository](https://www.npmjs.com/package/repository)
+[NPM Repository](https://www.npmjs.com/package/repository)
