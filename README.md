@@ -7,3 +7,5 @@ Murilo Vinicios Duarte
 [Node](https://nodejs.org/en/)
 
 [VSCode](https://code.visualstudio.com/)
+
+[npm repository](https://www.npmjs.com/package/repository)
