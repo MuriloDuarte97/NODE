@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/MuriloDuarte97/NODE?style=plastic)
-# Tutorial NODE
-Tutorial de Lógica de Programação Programação com a plataorma Node
+# Tutorial NODEJS
+Tutorial de Lógica de Programação Programação usando JAVASCRIPT e a plataorma Node
 ## AUTOR
 Murilo Vinicios Duarte
 ## Links
