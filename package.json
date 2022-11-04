@@ -22,6 +22,11 @@
   },
   "homepage": "https://github.com/MuriloDuarte97/NODE#readme",
   "dependencies": {
-    "colors": "^1.4.0"
+    "color": "^4.2.3",
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
