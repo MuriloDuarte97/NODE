@@ -1,4 +1,5 @@
 /**
+<<<<<<< HEAD
  * calculo de imc
  */
 
@@ -27,4 +28,5 @@
 }
 if (imc > 39.9) {
     console.log("Obesidade grau 3")
-}
+
+    
