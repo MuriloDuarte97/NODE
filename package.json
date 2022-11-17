@@ -1,8 +1,51 @@
 {
   "name": "node",
   "version": "1.0.0",
-  "description": "Tutorial de logica de programação com a plataforma Node",
+  "description": "![GitHub](https://img.shields.io/github/license/MuriloDuarte97/NODE?style=plastic)\r # Tutorial NODEJS\r Tutorial de Lógica de Programação Programação usando JAVASCRIPT e a plataorma Node\r ## AUTOR\r Murilo Vinicios Duarte\r ## Links\r [Node](https://nodejs.org/en/)",
   "main": "index.js",
+  "dependencies": {
+    "abbrev": "^1.1.1",
+    "anymatch": "^3.1.2",
+    "balanced-match": "^1.0.2",
+    "binary-extensions": "^2.2.0",
+    "color": "^4.2.3",
+    "braces": "^3.0.2",
+    "brace-expansion": "^1.1.11",
+    "color-string": "^1.9.1",
+    "color-convert": "^2.0.1",
+    "color-name": "^1.1.4",
+    "colors": "^1.4.0",
+    "concat-map": "^0.0.1",
+    "fill-range": "^7.0.1",
+    "has-flag": "^3.0.0",
+    "debug": "^3.2.7",
+    "ignore-by-default": "^1.0.1",
+    "is-arrayish": "^0.3.2",
+    "is-extglob": "^2.1.1",
+    "is-binary-path": "^2.1.0",
+    "glob-parent": "^5.1.2",
+    "is-glob": "^4.0.3",
+    "is-number": "^7.0.0",
+    "minimatch": "^3.1.2",
+    "nopt": "^1.0.10",
+    "ms": "^2.1.3",
+    "nodemon": "^2.0.20",
+    "normalize-path": "^3.0.0",
+    "pstree.remy": "^1.1.8",
+    "picomatch": "^2.3.1",
+    "readdirp": "^3.6.0",
+    "readline": "^1.3.0",
+    "simple-swizzle": "^0.2.2",
+    "semver": "^5.7.1",
+    "simple-update-notifier": "^1.0.7",
+    "supports-color": "^5.5.0",
+    "to-regex-range": "^5.0.1",
+    "readline-sync": "^1.4.10",
+    "touch": "^3.1.0",
+    "undefsafe": "^2.0.5",
+    "chokidar": "^3.5.3"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,28 +53,10 @@
     "type": "git",
     "url": "git+https://github.com/MuriloDuarte97/NODE.git"
   },
-  "keywords": [
-    "node",
-    "tutorial",
-    "git"
-  ],
-  "author": "Murilo Vinicios Duarte",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/MuriloDuarte97/NODE/issues"
   },
-  "homepage": "https://github.com/MuriloDuarte97/NODE#readme",
-  "dependencies": {
-    "color": "^4.2.3",
-    "colors": "^1.4.0",
-<<<<<<< HEAD
-    "readline": "^1.3.0",
-    "readline-sync": "^1.4.10"
-=======
-    "readline-sync": "^1.4.10"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.20"
->>>>>>> 8f30aece6054f741dc8941bf602318f4802d690a
-  }
+  "homepage": "https://github.com/MuriloDuarte97/NODE#readme"
 }
