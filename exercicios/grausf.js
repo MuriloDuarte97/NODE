@@ -7,5 +7,5 @@
  let grausf = Number(read.question("quantos graus fahrenheit?"))
  let grausc = ((grausf - 32) / 1.8)
 
- console.log(`${grausf} graus fahrenheit é igual a ${grausc.toFixed(2)} graus celsius`)
+ console.log(`${grausf} graus fahrenheit e igual a ${grausc.toFixed(2)} graus celsius`)
  
